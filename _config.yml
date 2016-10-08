@@ -1,0 +1,35 @@
+
+# Site settings
+title: smartstrap.github.io
+# email: your-email@domain.com
+description: > 
+  Everything we know about every Pebble smartstrap ever made or Kickstarted...
+baseurl: ""		# no trailing slash
+url: "http://smartstrap.github.io"	# no trailing slash
+excerpt_separator: <!--more—->
+
+about: > 
+  Everything we know about every Pebble smartstrap ever made or Kickstarted... :bowtie:
+footer: > 
+  Made with :bowtie: by <a href="http://hot-dog.io">Hot-Dog IO</a>
+twitter_username:    IShJR
+github_username:     ishotjr
+#facebook_username:   TODO
+#linkedin_username:   TODO
+#google_username:     TODO
+#youtube_username:    ishotjrdotcom
+#instagram_username:  ishjr
+#reddit_username:     ishjr
+#tumblr_username:     ishotjr
+#lastfm_username:  	 ishotjrdotcom
+#soundcloud_username: ishjr
+#miiverse_username:   ishotjr
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+gems:
+- jemoji
